@@ -177,7 +177,7 @@ a:focus {
 .custom_nav-container .navbar-toggler {
   padding: 0;
   width: 35px;
-  height: 35px;
+  height: 40px;
   -webkit-transition: all .3s;
   transition: all .3s;
 }
